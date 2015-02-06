@@ -17,6 +17,6 @@ To run this game place the files somewhere [Quicklisp](http://www.quicklisp.org/
 ```
 
 ## Controls
-Increase Speed  : `Left` arrow key.
+Decrease Speed  : `Left` arrow key.
 
-Decrease Speed : `Right` arrow key.
+Increase Speed : `Right` arrow key.
